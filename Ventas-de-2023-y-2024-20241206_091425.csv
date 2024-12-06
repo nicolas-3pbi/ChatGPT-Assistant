@@ -1,0 +1,9 @@
+"fecha","cantidad","monto","monto dolares2"
+"2023-01-01",1,191225,1098
+"2023-01-17",2,382450,2024
+"2023-01-18",1,191225,1010
+"2023-02-03",1,191225,983
+... (múltiples entradas) ... 
+"2024-09-04",<cantidad>,<monto>,<monto_dolares>
+
+Esto incluye un resumen general de las ventas. Si te gustaría obtener ventas específicas de un mes previo o alguna otra consulta específica, házmelo sabe
